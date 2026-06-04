@@ -118,5 +118,6 @@ window.INVITE_GUESTS = {
   "mr.-cyril-chinedum-ozobodo": "Mr. Cyril Chinedum Ozobodo",
   "mrs.-francoise-caroline-koukam-nekui": "Mrs. Francoise Caroline Koukam Nekui",
   "mr.-azeez-adebisi": "Mr. Azeez Adebisi",
-  "mr.-roland-ndombi": "Mr. Roland Ndombi"
+  "mr.-roland-ndombi": "Mr. Roland Ndombi",
+  "ms.-josephine-ayera": "Ms. Josephine Ayera"
 };
