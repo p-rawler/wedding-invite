@@ -164,5 +164,7 @@ window.INVITE_GUESTS = {
   "rubaga-south-women-2": "Rubaga South Women (Two)",
   "mr.-and-mrs.-ntabazi": "Mr. & Mrs. Ntabazi",
   "maama-arthur": "Maama Arthur",
-  "mr.-kawuma": "Mr. Kawuma"
+  "mr.-kawuma": "Mr. Kawuma",
+  "mrs.-kazibwe-viola": "Mrs. Kazibwe Viola",
+  "ms.-anita-kifeefe": "Ms. Anita Kifeefe"
 };
