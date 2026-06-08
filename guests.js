@@ -166,5 +166,8 @@ window.INVITE_GUESTS = {
   "maama-arthur": "Maama Arthur",
   "mr.-kawuma": "Mr. Kawuma",
   "mrs.-kazibwe-viola": "Mrs. Kazibwe Viola",
-  "ms.-anita-kifeefe": "Ms. Anita Kifeefe"
+  "ms.-anita-kifeefe": "Ms. Anita Kifeefe",
+  "mr.-and-mrs.-ssuubi-timothy": "Mr. & Mrs. Ssuubi Timothy",
+  "divine-messengers(2)": "Divine Messengers (2)",
+  "paradise-voices(2)": "Paradise Voices (2)"
 };
