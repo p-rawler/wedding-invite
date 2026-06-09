@@ -170,5 +170,7 @@ window.INVITE_GUESTS = {
   "mr.-and-mrs.-ssuubi-timothy": "Mr. & Mrs. Ssuubi Timothy",
   "divine-messengers(2)": "Divine Messengers (2)",
   "paradise-voices(2)": "Paradise Voices (2)",
-  "ms.-justine-namirembe": "Ms. Justine Namirembe"
+  "ms.-justine-namirembe": "Ms. Justine Namirembe",
+  "aunt-prossy-namugenyi": "Aunt Prossy Namugenyi",
+  "remmie": "Remmie",
 };
