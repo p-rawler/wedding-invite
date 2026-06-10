@@ -174,9 +174,10 @@ window.INVITE_GUESTS = {
   "aunt-prossy-namugenyi": "Aunt Prossy Namugenyi",
   "remmie": "Remmie",
   "mr.-simon-kambugu": "Mr. Simon Kambugu",
-  "ms.-irene-kambonesa": "Ms. Irene Kambonesa",
-  "ms.-hilda-mwesigwa": "Ms. Hilda Mwesigwa",
+  "mrs.-irene-kambonesa": "Mrs. Irene Kambonesa",
+  "mrs.-hilda-mwesigwa": "Mrs. Hilda Mwesigwa",
   "mr.-kenneth-kajjora": "Mr. Kenneth Kajjora",
   "mr.-and-mrs.-bigirwamukama-henry": "Mr. & Mrs. Bigirwamukama Henry",
   "mr.-opollo-pirwot": "Mr. Opollo Pirwot",
+  "mr.-bigirwamukama-henry": "Mr. Bigirwamukama Henry",
 };
