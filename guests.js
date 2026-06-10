@@ -180,4 +180,5 @@ window.INVITE_GUESTS = {
   "mr.-and-mrs.-bigirwamukama-henry": "Mr. & Mrs. Bigirwamukama Henry",
   "mr.-opollo-pirwot": "Mr. Opollo Pirwot",
   "mr.-bigirwamukama-henry": "Mr. Bigirwamukama Henry",
+  "ms.-nabuenya-julian": "Ms. Nabuenya Julian",
 };
