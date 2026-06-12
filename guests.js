@@ -182,6 +182,9 @@ window.INVITE_GUESTS = {
   "mr.-bigirwamukama-henry": "Mr. Bigirwamukama Henry",
   "ms.-nabuenya-julian": "Ms. Nabuenya Julian",
   "mr.-and-mrs.-mugamba": "Mr. & Mrs. Mugamba",
-  "janzi-band": "Janzi Band"
+  "janzi-band": "Janzi Band",
+  "mr.-and-mrs.-lwanga-ian": "Mr. & Mrs. Lwanga Ian",
+  "mr.-and-mrs.-nsubuga": "Mr. & Mrs. Nsubuga",
+  "mr.-and-mrs.-matsiko": "Mr. & Mrs. Matsiko",
 };
 
