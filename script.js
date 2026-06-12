@@ -1,7 +1,7 @@
 const weddingDate = new Date("2026-06-20T11:00:00+03:00");
 const phoneNumber = "+256 793 709243";
 const phoneNumberDigits = "256793709243";
-const defaultGuestName = "Gideon Kalanzi";
+const defaultGuestName = "Mugenyi Waffe";
 const guestList = window.INVITE_GUESTS || {};
 
 function pad(value) {
