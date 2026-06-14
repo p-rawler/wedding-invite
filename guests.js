@@ -199,6 +199,6 @@ window.INVITE_GUESTS = {
   "ms.-namanda-immaculate": "Ms. Namanda Immaculate",
   "mr.&mrs.-lukwago": "Mr. & Mrs. Lukwago", 
   "mr.&mrs.-mulindwa": "Mr. & Mrs. Mulindwa",
-  
+  "mr.-and-mrs.-mfitimukiza": "Mr. & Mrs. Mfitimukiza",
 };
 
