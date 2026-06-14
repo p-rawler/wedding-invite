@@ -193,5 +193,12 @@ window.INVITE_GUESTS = {
   "mr.-and-mrs.-nkwasibwe": "Mr. & Mrs. Nkwasibwe",
   "mr.-and-mrs.-kakande-nicholas": "Mr. & Mrs. Kakande Nicholas",
   "mr.-and-mrs.kiwanuka-joseph": "Mr. & Mrs. Kiwanuka Joseph",
+  "aunt-molly-kwagala": "Aunt Molly Kwagala",
+  "mr.-and-mrs.-kunya": "Mr. & Mrs. Kunya",
+  "mr.-and-mrs.-tomusange": "Mr. & Mrs. Tomusange",
+  "ms.-namanda-immaculate": "Ms. Namanda Immaculate",
+  "mr.&mrs.-lukwago": "Mr. & Mrs. Lukwago", 
+  "mr.&mrs.-mulindwa": "Mr. & Mrs. Mulindwa",
+  
 };
 
