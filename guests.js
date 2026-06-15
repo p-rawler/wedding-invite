@@ -209,7 +209,7 @@ window.INVITE_GUESTS = {
   "rtn.-dominic-tumwesigye": "Rtn. Dominic Tumwesigye",
   "mrs.-ruth-tumwesigye": "Mrs. Ruth Tumwesigye",
   "mr.-musuubo-evans-phillips": "Mr. Musuubo Evans Phillips",
-  "n5b4d-bether-kiyinda-cell(8)": "N5B4D Bether Kiyinda Cell(8)",
+  "n5b4d-bethel-kiyinda-cell(8)": "N5B4D Bethel Kiyinda Cell(8)",
   "lubowa-toastmasters-club(5)": "Lubowa Toastmasters Club(5)",
   "n8b2b-cell(8)": "N8B2B Cell(8)",
   "ms.-atimango-irene": "Ms. Atimango Irene",
