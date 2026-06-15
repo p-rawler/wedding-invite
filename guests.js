@@ -200,5 +200,20 @@ window.INVITE_GUESTS = {
   "mr.&mrs.-lukwago": "Mr. & Mrs. Lukwago", 
   "mr.&mrs.-mulindwa": "Mr. & Mrs. Mulindwa",
   "mr.-and-mrs.-mfitimukiza": "Mr. & Mrs. Mfitimukiza",
+  "dr.-ambrose-mubialiwo": "Dr. Ambrose Mubialiwo",
+  "eng.-john-byaruhanga": "Eng. John Byaruhanga",
+  "eng.-henry-arinaitwe": "Eng. Henry Arinaitwe",
+  "eng.-marina": "Eng. Marina",
+  "eng.-fred-kasango": "Eng. Fred Kasango",
+  "eng.-perry-okiidi": "Eng. Perry Okiidi",
+  "rtn.-dominic-tumwesigye": "Rtn. Dominic Tumwesigye",
+  "mrs.-ruth-tumwesigye": "Mrs. Ruth Tumwesigye",
+  "mr.-musuubo-evans-phillips": "Mr. Musuubo Evans Phillips",
+  "n5b4d-bether-kiyinda-cell(8)": "N5B4D Bether Kiyinda Cell(8)",
+  "lubowa-toastmasters-club(5)": "Lubowa Toastmasters Club(5)",
+  "n8b2b-cell(8)": "N8B2B Cell(8)",
+  "ms.-atimango-irene": "Ms. Atimango Irene",
+  "ms.-lois-keren-kisaakye": "Ms. Lois Keren Kisaakye",
+  "mrs.-angela-kirabo-mutebi": "Mrs. Angela Kirabo Mutebi"
 };
 
