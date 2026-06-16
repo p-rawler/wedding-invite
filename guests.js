@@ -214,6 +214,8 @@ window.INVITE_GUESTS = {
   "n8b2b-cell(8)": "N8B2B Cell(8)",
   "ms.-atimango-irene": "Ms. Atimango Irene",
   "ms.-lois-keren-kisaakye": "Ms. Lois Keren Kisaakye",
-  "mrs.-angela-kirabo-mutebi": "Mrs. Angela Kirabo Mutebi"
+  "mrs.-angela-kirabo-mutebi": "Mrs. Angela Kirabo Mutebi",
+  "mr.-james-mutebi": "Mr. James Mutebi",
+  "ms.-lillian-namanya": "Ms. Lillian Namanya"
 };
 
