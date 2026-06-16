@@ -250,6 +250,7 @@ window.INVITE_GUESTS = {
   "mr.-jonathan-ssekalega": "Mr. Jonathan Ssekalega",
   "ms.-lisa-nabiseere": "Ms. Lisa Nabiseere",
   "ms.-ivy-olivia-namugerwa": "Ms. Ivy Olivia Namugerwa",
-  "ms.-yvonne-kyoyagala": "Ms. Yvonne Kyoyagala"
+  "ms.-yvonne-kyoyagala": "Ms. Yvonne Kyoyagala",
+  "dr.-christine-luutu": "Dr. Christine Luutu"
 };
 
