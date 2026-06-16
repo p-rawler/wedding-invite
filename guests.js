@@ -226,6 +226,6 @@ window.INVITE_GUESTS = {
   "ms.-sandra-sanjo-coote": "Ms. Sandra Sanjo Coote",
   "mrs.-lilian-wakoli": "Mrs. Lilian Wakoli",
   "mrs.-racheal-babirye-kakaire": "Mrs. Racheal Babirye Kakaire",
-  "ms.-sharon-nakimera": "Ms. Sharone Nakimera"
+  "ms.-sharone-nakimera": "Ms. Sharone Nakimera"
 };
 
