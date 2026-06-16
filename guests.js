@@ -226,6 +226,21 @@ window.INVITE_GUESTS = {
   "ms.-sandra-sanjo-coote": "Ms. Sandra Sanjo Coote",
   "mrs.-lilian-wakoli": "Mrs. Lilian Wakoli",
   "mrs.-racheal-babirye-kakaire": "Mrs. Racheal Babirye Kakaire",
-  "ms.-sharone-nakimera": "Ms. Sharone Nakimera"
+  "ms.-sharone-nakimera": "Ms. Sharone Nakimera",
+  "mr.-and-mrs.-kasule": "Mr & Mrs. Kasule",
+  "ms.-daina-nakimuli": "Ms. Daina Nakimuli",
+  "mr.-and-mrs.-eddie-mpanga": "Mr. &Mrs. Eddie Mpanga",
+  "ms.-betty-akello": "Ms. Betty Akello",
+  "mr.-kintu-kenneth": "Mr. Kintu Kenneth",
+  "mr.-and-mrs.-vijan": "Mr. & Mrs. Vijan",
+  "mr.-kijambu": "Mr. Kijambu",
+  "mr.-and-mrs.-ssande": "Mr. & Mrs. Ssande",
+  "mr.-vianney-mpiima": "Mr. Vianney Mpiima",
+  "ms.-thelma-nyaketcho": "Ms. Thelma Nyaketcho",
+  "ms.-nancy-nyakato": "Ms. Nancy Nyakato",
+  "mr.-joseph-matovu": "Mr. Joseph Matovu",
+  "mr.-sam-muwanguzi": "Mr. Sam Muwanguzi",
+  "auntie-stella": "Auntie Stella",
+  "mr.-wasswa-paul": "Mr. Wasswa Paul"
 };
 
