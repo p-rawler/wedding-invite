@@ -253,6 +253,14 @@ window.INVITE_GUESTS = {
   "ms.-yvonne-kyoyagala": "Ms. Yvonne Kyoyagala",
   "dr.-christine-luutu": "Dr. Christine Luutu",
   "ms.-yvonne-kyoyagala": "Ms. Yvonne Kyoyagala",
-  "wedding-committee": "Wedding Committee"
+  "wedding-committee": "Wedding Committee",
+  "ms.-ashar": "Ms. Ashar",
+  "mr.-mutagaana-michael": "Mr. Mutagaana Michael",
+  "ms.-tusiime-tracy": "Ms. Tusiime Tracy",
+  "mr.-marvin-oryema": "Mr. Marvin Oryema",
+  "ms.-martha-asaba": "Ms. Martha Asaba",
+  "mr.-ivan-ayebazibwe": "Mr. Ivan Ayebazibwe",
+  "mr.-henry-zizinga": "Mr. Henry Zizinga",
+  "mr.-emojong-joel": "Mr. Emojong Joel"
 };
 
