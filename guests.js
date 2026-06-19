@@ -204,7 +204,6 @@ window.INVITE_GUESTS = {
   "eng.-john-byaruhanga": "Eng. John Byaruhanga",
   "eng.-henry-arinaitwe": "Eng. Henry Arinaitwe",
   "eng.-marina": "Eng. Marina",
-  "eng.-fred-kasango": "Eng. Fred Kasango",
   "eng.-perry-okiidi": "Eng. Perry Okiidi",
   "rtn.-dominic-tumwesigye": "Rtn. Dominic Tumwesigye",
   "mrs.-ruth-tumwesigye": "Mrs. Ruth Tumwesigye",
