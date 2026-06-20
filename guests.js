@@ -264,6 +264,9 @@ window.INVITE_GUESTS = {
   "mr.-joao-lombo": "Mr. Joao Lombo",
   "mrs.-kahindo-brenda": "Mrs. Kahindo Brenda",
   "mrs.-viola-kakeeto": "Mrs. Viola Kakeeto",
-  "ms.-irene-kasiita": "Ms. Irene Kasiita"
+  "ms.-irene-kasiita": "Ms. Irene Kasiita",
+  "ms.-florence": "Ms. Florence",
+  "ms.-mariam-namazzi": "Ms. Mariam Namazzi",
+  "mr.-mabirizi": "Mr. Mabirizi",
 };
 
